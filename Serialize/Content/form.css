@@ -1,0 +1,15 @@
+.container {
+    width: 70%;
+}
+
+.left {
+    width: 50%;
+    height: 100px; 
+    float: left;
+    box-sizing: border-box;
+    
+}
+.right {
+    margin-left: 50%;
+    height: 100px;
+}
